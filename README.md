@@ -1,3 +1,5 @@
+https://happydeathhd.github.io/Compound-Interest-Calculator/
+
 # Compound Interest Calculator
 
 A modern, sleek, and highly user-friendly React application for calculating compound interest on loans and investments.
